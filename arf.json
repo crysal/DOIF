@@ -5,26 +5,37 @@
     {
       "children": [
       {
-        "name": "##NAME HERE##",
+        "name": "Whois lookup",
         "type": "url",
-        "url": "##URL HERE##"
+        "url": "https://www.dk-hostmaster.dk/en/find-domain-name"
+		"__comment__": "maybe add other usefull sites from the original OSINT Framework?"
       }],
-      "name": "##SUBFOLDER NAME 1##",
+      "name": "Domain Names",
       "type": "folder"
     },
     {
       "children": [
       {
-        "name": "##NAME HERE##",
+        "name": "Krak",
         "type": "url",
-        "url": "##URL HERE##"
+        "url": "https://www.krak.dk/"
+      },
+      {
+        "name": "DeGuleSider",
+        "type": "url",
+        "url": "https://www.degulesider.dk/"
+      },
+      {
+        "name": "118",
+        "type": "url",
+        "url": "https://118.dk/"
       }],
-      "name": "##SUBFOLDER NAME 2##",
+      "name": "Person Search",
       "type": "folder"
     }],
-    "name": "##PARENT FOLDER NAME##",
+    "name": "Search",
     "type": "folder"
   }],
-  "name": "Danish OSINT Framework",
+  "name": "DOIF",
   "type": "folder"
 }
