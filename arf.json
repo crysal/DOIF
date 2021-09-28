@@ -5,36 +5,82 @@
     {
       "children": [
       {
-        "name": "Whois lookup",
+        "name": "DK-Hostmaster",
         "type": "url",
         "url": "https://www.dk-hostmaster.dk/en/find-domain-name"
       }],
-      "name": "Domain Names",
+      "name": "Whois",
       "type": "folder"
     },
     {
       "children": [
       {
-        "name": "Krak",
+        "name": "##NAME HERE##",
         "type": "url",
-        "url": "https://www.krak.dk/"
-      },
-      {
-        "name": "DeGuleSider",
-        "type": "url",
-        "url": "https://www.degulesider.dk/"
-      },
-      {
-        "name": "118",
-        "type": "url",
-        "url": "https://118.dk/"
+        "url": "##URL HERE##"
       }],
-      "name": "Person Search",
+      "name": "##SUBFOLDER NAME 2##",
       "type": "folder"
     }],
-    "name": "Search",
+    "name": "Domain Search",
     "type": "folder"
   }],
+  "children": [
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "##NAME HERE##",
+        "type": "url",
+        "url": "##URL HERE##"
+      }],
+      "name": "Private Person",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Nummerplade",
+        "type": "url",
+        "url": "https://www.nummerplade.net"
+      }],
+      "name": "Vehicle Search",
+      "type": "folder"
+    }],
+    "name": "People Search",
+    "type": "folder"
+  }],
+  "children": [
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "virk",
+        "type": "url",
+        "url": "https://virk.dk/"
+      },{
+        "name": "proff",
+        "type": "url",
+        "url": "https://proff.dk/"
+      }],
+      "name": "CVR Search",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "##NAME HERE##",
+        "type": "url",
+        "url": "##URL HERE##"
+      }],
+      "name": "##SUBFOLDER NAME 2##",
+      "type": "folder"
+    }],
+    "name": "Buisness Search",
+    "type": "folder"
+  }]
   "name": "DOIF",
   "type": "folder"
 }
