@@ -13,12 +13,8 @@
 ],"name": "Person","type": "folder"},
 {"children": [
 {"children": [
-{"name": "P2S1N1","type": "url","url": "##URL HERE##"},
-{"name": "P2S1N2","type": "url","url": "##URL HERE##"}
-],"name": "P2S1","type": "folder"},
-{"children": [
-{"name": "P2S2N1","type": "url","url": "##URL HERE##"},
-{"name": "P2S2N2","type": "url","url": "##URL HERE##"}
-],"name": "P2S2","type": "folder"}
-],"name": "P2","type": "folder"}
+{"name": "Virk","type": "url","url": "https://virk.dk/"},
+{"name": "Proff","type": "url","url": "https://proff.dk/"}
+],"name": "Search","type": "folder"}
+],"name": "Virksomhed","type": "folder"}
 ],"name": "DOIF","type": "folder"}
