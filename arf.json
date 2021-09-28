@@ -5,11 +5,11 @@
     {
       "children": [
       {
-        "name": "DK-Hostmaster",
+        "name": "##NAME HERE##",
         "type": "url",
-        "url": "https://www.dk-hostmaster.dk/en/find-domain-name"
+        "url": "##URL HERE##"
       }],
-      "name": "Whois",
+      "name": "##SUBFOLDER NAME 1##",
       "type": "folder"
     },
     {
@@ -22,10 +22,9 @@
       "name": "##SUBFOLDER NAME 2##",
       "type": "folder"
     }],
-    "name": "Domain Search",
+    "name": "##PARENT FOLDER NAME##",
     "type": "folder"
-  }],
-  "children": [
+  }],"children": [
   {
     "children": [
     {
@@ -35,37 +34,7 @@
         "type": "url",
         "url": "##URL HERE##"
       }],
-      "name": "Private Person",
-      "type": "folder"
-    },
-    {
-      "children": [
-      {
-        "name": "Nummerplade",
-        "type": "url",
-        "url": "https://www.nummerplade.net"
-      }],
-      "name": "Vehicle Search",
-      "type": "folder"
-    }],
-    "name": "People Search",
-    "type": "folder"
-  }],
-  "children": [
-  {
-    "children": [
-    {
-      "children": [
-      {
-        "name": "virk",
-        "type": "url",
-        "url": "https://virk.dk/"
-      },{
-        "name": "proff",
-        "type": "url",
-        "url": "https://proff.dk/"
-      }],
-      "name": "CVR Search",
+      "name": "##SUBFOLDER NAME 1##",
       "type": "folder"
     },
     {
@@ -78,7 +47,7 @@
       "name": "##SUBFOLDER NAME 2##",
       "type": "folder"
     }],
-    "name": "Buisness Search",
+    "name": "##PARENT FOLDER NAME##",
     "type": "folder"
   }],
   "name": "DOIF",
