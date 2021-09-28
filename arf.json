@@ -8,7 +8,6 @@
         "name": "Whois lookup",
         "type": "url",
         "url": "https://www.dk-hostmaster.dk/en/find-domain-name"
-		"__comment__": "maybe add other usefull sites from the original OSINT Framework?"
       }],
       "name": "Domain Names",
       "type": "folder"
