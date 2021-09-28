@@ -5,45 +5,82 @@
     {
       "children": [
       {
-        "name": "##NAME HERE##",
+        "name": "P1S1N1",
         "type": "url",
         "url": "##URL HERE##"
-      }],
-      "name": "##SUBFOLDER NAME 1##",
+      },
+      {
+        "name": "P1S1N2",
+        "type": "url",
+        "url": "##URL HERE##"
+      }
+	  ],
+      "name": "P1S1",
       "type": "folder"
     },
     {
       "children": [
       {
-        "name": "##NAME HERE##",
+        "name": "P1S2N1",
         "type": "url",
         "url": "##URL HERE##"
-      }],
-      "name": "##SUBFOLDER NAME 2##",
+      },
+      {
+        "name": "P1S2N2",
+        "type": "url",
+        "url": "##URL HERE##"
+      }
+	  ],
+      "name": "P1S2",
       "type": "folder"
-    }],
-    "name": "##PARENT FOLDER NAME##",
+    }
+	],
+    "name": "P1",
     "type": "folder"
-  }],"children": [
+  },
   {
     "children": [
     {
       "children": [
       {
-        "name": "##NAME HERE##",
+        "name": "P2S1N1",
         "type": "url",
         "url": "##URL HERE##"
-      }],
-      "name": "##SUBFOLDER NAME 1##",
+      },
+      {
+        "name": "P2S1N2",
+        "type": "url",
+        "url": "##URL HERE##"
+      }
+	  ],
+      "name": "P2S1",
       "type": "folder"
     },
     {
       "children": [
       {
-        "name": "##NAME HERE##",
+        "name": "P2S2N1",
         "type": "url",
         "url": "##URL HERE##"
-      }],
+      },
+      {
+        "name": "P2S2N2",
+        "type": "url",
+        "url": "##URL HERE##"
+      }
+	  ],
+      "name": "P2S2",
+      "type": "folder"
+    }
+	],
+    "name": "P2",
+    "type": "folder"
+  }
+  ],
+  "name": "DOIF",
+  "type": "folder"
+}
+
       "name": "##SUBFOLDER NAME 2##",
       "type": "folder"
     }],
