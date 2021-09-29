@@ -3,8 +3,9 @@
 {"children": [
 {"name": "Statsarkivet","type": "url","url": "https://www.sa.dk/da/"},
 {"name": "Ancestry Catalog","type": "url","url": "https://www.ancestry.com/search/collections/catalog/?location=5071_1652381"},
+{"name": "Ejendomssager (N)","type": "url","url": "https://public.filarkiv.dk"},
 {"name": "Curch Records","type": "url","url": "https://www.ancestry.com/search/collections/61607/"}
-],"name": "Rigsarkivet","type": "folder"},
+],"name": "Arkiver","type": "folder"},
 {"children": [
 {"name": "De Gule Sider","type": "url","url": "https://www.degulesider.dk/"},
 {"name": "Krak","type": "url","url": "https://www.krak.dk/"},
